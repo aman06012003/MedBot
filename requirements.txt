@@ -1,0 +1,8 @@
+transformers
+torch
+sentence-transformers
+sentencepiece
+langchain
+chromadb
+pypdf
+huggingface_hub
