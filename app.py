@@ -7,7 +7,7 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import Chroma
 from huggingface_hub import notebook_login
-os.environ['HUGGINGFACEHUB_API_TOKEN'] = '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'
+os.environ['HUGGINGFACEHUB_API_TOKEN'] = ''
 import torch
 import transformers
 from transformers import AutoTokenizer, AutoModelForCausalLM
